@@ -1,0 +1,15 @@
+{
+  "name": "curso-api-rest-javascript-practico",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de API REST con JavaSCript",
+  "main": "index.hmtl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Mlopzz/curso-api-rest-javascript-practico.git)"
+  },
+  "author": "Manuel Lopez",
+  "license": "MIT"
+}
